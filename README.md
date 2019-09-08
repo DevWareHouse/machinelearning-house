@@ -14,11 +14,11 @@
 
 除本项目之外，本人还会同期发布其他主题的项目，例如:
 
-### python-house ###
+### [python-house](https://github.com/DevWareHouse/python-house) ###
     主要介绍python相关知识点，因为本人就是从事主要以python为开发语言的相关工程师，所以还是想将自己
     平时学习到的以及躺过的坑介绍给大家，有则改之无则加勉嘛...
     
-### C-house ###
+### [C-house](https://github.com/DevWareHouse/c-house) ###
 
     C-house主要是介绍c语言以及c++方面相关基础知识的，在这一方面，本人倒不算是菜鸟，毕竟大学是网络工
     程专业的，开发语言可是没少学，只是毕业工作之后用的少，但是从本身而言还是比较喜欢这两门语言，所以
